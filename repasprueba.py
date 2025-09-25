@@ -40,4 +40,5 @@ while True:
     print("5  salir " )
     
     opcion = input("Elige una opción (1-6): ")
+    
     if
